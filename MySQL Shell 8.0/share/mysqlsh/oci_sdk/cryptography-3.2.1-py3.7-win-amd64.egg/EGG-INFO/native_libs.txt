@@ -1,0 +1,2 @@
+cryptography/hazmat/bindings/_openssl.cp37-win_amd64.pyd
+cryptography/hazmat/bindings/_padding.cp37-win_amd64.pyd

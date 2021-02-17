@@ -1,0 +1,6 @@
+certifi
+configparser==4.0.2
+cryptography==3.2.1
+pyOpenSSL<=19.1.0,>=17.5.0
+python-dateutil<3.0.0,>=2.5.3
+pytz>=2016.10
